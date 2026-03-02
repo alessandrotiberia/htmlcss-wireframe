@@ -1,0 +1,8 @@
+p {
+    color: black;
+}
+body {
+    
+    width: 512px; /* per “simulare” le misure di uno smartphone */
+    border: 2px dashed black;
+}
