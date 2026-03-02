@@ -1,8 +1,49 @@
+	
+	
+	
+
 p {
     color: black;
 }
+
 body {
-    
-    width: 512px; /* per “simulare” le misure di uno smartphone */
+    width: 512px;
+    /* per “simulare” le misure di uno smartphone */
     border: 2px dashed black;
 }
+
+
+h2 {
+    color: black;
+}
+
+main {
+    padding: 15px;
+    margin: 2px;
+    
+}
+
+section {
+    border: solid;
+    padding: 2%;
+    margin: 10px 0;
+
+} 
+ /*section {
+    border: solid;
+    padding: 12px;
+    margin: 0 0 16px 0;
+  
+}*/
+
+header {
+    margin: 4%;
+    width: 100%;
+
+}
+footer {
+    margin: 4%;
+}
+
+
+
